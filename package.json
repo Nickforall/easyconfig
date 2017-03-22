@@ -1,0 +1,11 @@
+{
+  "name": "easyconfig",
+  "version": "0.1.0",
+  "description": "Simply generates a default config file on first use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Vernij <hello@nickforall.nl>",
+  "license": "MIT"
+}
